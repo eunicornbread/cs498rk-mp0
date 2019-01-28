@@ -1,3 +1,7 @@
+/*
+ * Reference for centering header from:
+ * https://css-tricks.com/centering-css-complete-guide/
+ */
 body {
   text-align: center;
   background: #2196F3;
